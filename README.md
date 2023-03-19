@@ -38,3 +38,7 @@ I included testing files for the DB in `test/test_asgard.rs`.
 ### Dependencies
 
 - maplit = "0.1.4"
+
+### For Your Info
+
+Project still in progress - Functionality, formatting, and other changes TBD.
