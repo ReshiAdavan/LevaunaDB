@@ -4,11 +4,9 @@ An Extensible In-Memory Graph Database implemented in Rust that leverages a Grem
 
 ### Inspiration
 
-I found it so interesting that some non-relational database architectures use graphs to draw relationships between data. I thought architectures limited to document data stores (JSON), columnar data stores and key-value stores, all of which essentially leverage hashmaps/hashtables.
+Graph architectures have become increasingly popular in software design - databases, query languages, machine learning, etc. Neo4j and GraphQL are great examples. I wanted to see the hype myself but instead by implementing it myself and seeing how things work behind the scenes.
 
-Databases like Neo4j are what caught my attention and inspired me to create something similar.
-
-I'll probably try to build a relational database via a B+ tree at some point in the near future while on the topic of creating small-scale databases.
+I'll probably do the same for relational databases via B+ trees since im on the topic of creating small-scale databases.
 
 ### Sample
 
