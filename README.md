@@ -33,7 +33,7 @@ let out = q.out(EdgeFilter::None).run();
 assert_eq!(out, vec![QueryResult::Vertex(v2)]);
 ```
 
-I included testing files for the DB in `test/test_asgard.rs`.
+Will include testing files for the DB in a test directory
 
 ### Dependencies
 
