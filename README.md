@@ -1,6 +1,6 @@
 # LevaunaDB
 
-An Extensible In-Memory Graph Database implemented in Rust that leverages a Gremlin inspired traversal language.
+Developed in Rust and implemented by a Gremlin inspired traversal language.
 
 ### Inspiration
 
