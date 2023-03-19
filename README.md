@@ -35,6 +35,14 @@ assert_eq!(out, vec![QueryResult::Vertex(v2)]);
 
 Will include testing files for the DB in a test directory
 
+### Skills
+
+Small disclaimer this DB does use hashmaps BUT for the purpose of creating a graph.
+
+- Rust
+- Graphs/Hashmaps, Traversals
+- Gremlin (Traversal Query Languages)
+
 ### Dependencies
 
 - maplit = "0.1.4"
