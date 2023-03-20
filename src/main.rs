@@ -1,6 +1,6 @@
 #[macro_use] extern crate maplit;
 
-use dagoba_rust::*;
+use levauna_db::*;
 
 fn main() {
     
