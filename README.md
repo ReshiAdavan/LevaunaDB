@@ -31,7 +31,7 @@ let out = q.out(EdgeFilter::None).run();
 assert_eq!(out, vec![QueryResult::Vertex(v2)]);
 ```
 
-Will include testing files for the DB in a test directory
+Testing files for the DB are in `tests`
 
 ### Skills
 
