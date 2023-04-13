@@ -1,6 +1,6 @@
 # LevaunaDB
 
-Developed in Rust and implemented by a Gremlin inspired traversal language.
+Developed in R\*\*\* [Redacted due to policy] and implemented by a Gremlin inspired traversal language.
 
 ### Inspiration
 
@@ -37,7 +37,7 @@ Testing files for the DB are in `tests`
 
 Small disclaimer this DB does use hashmaps BUT for the purpose of creating a graph.
 
-- Rust
+- R\*\*\* [Redacted due to policy]
 - Graphs/Hashmaps, Traversals
 - Gremlin (Traversal Query Languages)
 
