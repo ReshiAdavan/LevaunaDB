@@ -3,7 +3,6 @@
 use levauna_db::*;
 
 fn main() {
-    
     let mut graph = Graph::new();
 
     let v1 = graph.add_vertex(hashmap!{
@@ -22,5 +21,4 @@ fn main() {
     let out = q.out(EdgeFilter::None).run();
     
     assert_eq!(out, vec![QueryResult::Vertex(v2)]);
-    
 }

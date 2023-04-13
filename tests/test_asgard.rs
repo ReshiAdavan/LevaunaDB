@@ -268,7 +268,4 @@ fn asgard() {
     let out = q.out(EdgeFilter::None).r#as("parent".to_string()).out(EdgeFilter::None).r#in(EdgeFilter::None).except("parent".to_string()).unique().run();
  
     assert_eq!(out, vec![QueryResult::Vertex(*name_idx.get("Vé").unwrap()), QueryResult::Vertex(*name_idx.get("Vili").unwrap()), QueryResult::Vertex(*name_idx.get("Dagr").unwrap())]);
-
-    
 }
-
