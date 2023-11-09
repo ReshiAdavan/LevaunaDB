@@ -44,7 +44,3 @@ Small disclaimer this DB does use hashmaps BUT for the purpose of creating a gra
 ### Dependencies
 
 - maplit = "0.1.4"
-
-### For Your Info
-
-Project still in progress - Functionality, formatting, and other changes TBD.
